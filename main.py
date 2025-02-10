@@ -2,7 +2,7 @@ import pyperclip
 import pyautogui
 import time
 
-delay = 3
+delay = 5
 
 clipboard_text = pyperclip.paste()
 
